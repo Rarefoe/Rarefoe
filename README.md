@@ -22,7 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rarefoe&show_icons=true&locale=en&layout=compact" alt="rarefoe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rarefoe&show_icons=true&locale=en" alt="rarefoe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rarefoe&" alt="rarefoe" /></p>
 
